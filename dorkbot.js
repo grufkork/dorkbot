@@ -20,8 +20,8 @@ var latestTextChannel = "";
 mep.set("a", "b", "c", "d");
 console.log(mep);*/
 
-bot.login("MzI2MzE2NDMyMTM4Njk4NzYy.DWtuQg.6V7V6o1Fx4VDfHtEGJQFBHgAjjM");
-youtubeSearch.setKey('addownkey'); //Någon annans nyckel, kan behöva bytas
+bot.login("addyourownkeyhere");
+youtubeSearch.setKey('AIzaSyB1OOSpTREs85WUMvIgJvLTZKye4BVsoFU'); //Någon annans nyckel, kan behöva bytas
 
 const prefix = "!";
 
